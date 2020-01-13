@@ -1,4 +1,4 @@
-# Answers/Notes to [Cracking the Coding Interview, 6th Ed.](http://www.crackingthecodinginterview.com)
+# Kate McGee to [Cracking the Coding Interview, 6th Ed.](http://www.crackingthecodinginterview.com)
 
 To join our [Slack CTCI study group](https://linkedin-jr-engineers.slack.com), **give me your email, [install Zoom](https://zoom.us/download), and create a [Zoom account](https://zoom.us/signup)**.
 
